@@ -1,5 +1,11 @@
 # wmr
 
+## 3.8.0
+
+### Minor Changes
+
+- [`2d768a1`](https://github.com/preactjs/wmr/commit/2d768a13e7b42ff62430a0a573706f5620b842c6) [#875](https://github.com/preactjs/wmr/pull/875) Thanks [@JoviDeCroock](https://github.com/JoviDeCroock)! - Add a tsconfig-paths plugin that will check for a tsconfig and respect the paths option when present
+
 ## 3.7.2
 
 ### Patch Changes
